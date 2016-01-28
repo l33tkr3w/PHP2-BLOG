@@ -6,3 +6,5 @@ Index.html - Setup Bootstrap Navbar and cleaned up template | 4 hours
 Greg
 
 Database User registration  | 4 hours
+
+
